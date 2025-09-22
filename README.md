@@ -4,7 +4,7 @@
 
 <h2>⚡ Programming Projects:</h2>
 - <b>Python </b> <br>
-<a href="https://www.linkedin.com/in/nathanmalaythong99/">Barcode Scan to Zebra ZPL Label Converter</a>
+<a href="https://github.com/ZN6Nate/Barcode2ZPLConverter">Barcode Scan to Zebra ZPL Label Converter</a>
 
 <h2> 📄 My Certifications:</h2>
 - <a href="https://www.credly.com/badges/bef9bab5-8dd1-47c6-9f22-a95bdd1e5afa/public_url">CompTIA Security+ (Sept 2025 - 2028) </a> <br>
