@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathanmalaythong99/">IT Professional, Aspiring IAM, Information Security & Cybersecurity Analyst</a>
+<h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathanmalaythong99/">IT Professional, Aspiring IAM, Information & Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Information Security & Cybersecurity Projects:</h2>
 • <a href="https://github.com/ZN6Nate/ParrotOS-Install-RPI4">How To Install ParrotOS on Raspberry Pi 4 </a><br>
