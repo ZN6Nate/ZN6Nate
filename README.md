@@ -15,6 +15,11 @@
 • <a href="https://www.credly.com/badges/90e6656e-95ea-424f-a40e-9b1280e8baa4/public_url">ISC2 Certified in Cybersecurity (Mar 2025 - 2028) </a> <br>
 • <a href="https://www.credly.com/badges/6166b6b1-4616-4e64-a641-53b2c23cc452/public_url">CompTIA A+ (Expired Oct 2024) </a>
 
+<h2>😎 My Hobbies </h2>
+🏎️ <a href="https://www.youtube.com/watch?v=7U_fFy9vOyY">I Love Formula 1 </a> <br>
+🏎️ <a href="https://www.youtube.com/watch?v=V3MEpCUK6Ow">I Love Drifting </a> <br>
+🧽 <a href="https://www.youtube.com/watch?v=XSEnkeHsppU">and I REALLY Love Spongebob </a> <br>
+
 
 <h2> 🤳 Connect with me:</h2>
 • <a href="https://www.linkedin.com/in/nathanmalaythong99/">LinkedIn - Nathan Malaythong </a>
