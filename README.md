@@ -3,12 +3,13 @@
 <h2>👨‍💻 Information Security & Cybersecurity Projects:</h2>
 • <a href="https://github.com/ZN6Nate/ADPowershellScripting">Powershell Scripting with Active Directory & Domains </a><br>
 • <a href="https://github.com/ZN6Nate/ParrotOS-Install-RPI4">How To Install ParrotOS on Raspberry Pi 4 </a><br>
+• <a href="https://github.com/ZN6Nate/RemoteServerRestartBatchScript">Desktop Shortcut - Remote Server Restart Batch Script for Shutterfly</a><br>
 
 
 
 <h2>⚡ Programming Projects:</h2>
 <b>Python </b> <br>
-• <a href="https://github.com/ZN6Nate/Barcode2ZPLConverter">Barcode Scan to Zebra ZPL Label Converter (Python) </a><br>
+• <a href="https://github.com/ZN6Nate/Barcode2ZPLConverter">Barcode Scan to Zebra ZPL Label Converter (Python) for Shutterfly</a><br>
 • <a href="https://github.com/ZN6Nate/PasswordStrenghtChecker">Password Strength Checker (Python) </a>
 
 <h2> 📄 My Certifications:</h2>
