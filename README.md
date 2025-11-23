@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathanmalaythong99/">IT Professional, Future Formula 1 Team IT Personnel </a>
+<h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathanmalaythong99/">IT & Information Security Professional </a>
 
 <h2>😎 My Hobbies </h2>
 🏎️ <a href="https://www.youtube.com/watch?v=7U_fFy9vOyY">I Love Formula 1 </a> <br>
