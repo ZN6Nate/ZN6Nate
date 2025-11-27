@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nathan! <br/> <a href="https://www.linkedin.com/in/nathanmalaythong99/">IT & Information Security Professional </a>
 
-<h2>😎 My Hobbies </h2>
+<h2>😎 My Hobbies & Interests:</h2>
 🏎️ <a href="https://www.youtube.com/watch?v=7U_fFy9vOyY">I Love Formula 1 </a> <br>
 🏎️ <a href="https://www.youtube.com/watch?v=uKRjMLJ8Y7o">Future Cadillac F1 IT Personnel (Hopefully) </a> <br>
 🏎️ <a href="https://www.youtube.com/watch?v=V3MEpCUK6Ow">I Love Drifting </a> <br>
