@@ -10,16 +10,15 @@
 
 
 
-<h2>👨‍💻 Information Security & Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Information Security & Scripting Projects:</h2>
+<b>🐚 - PowerShell & Batch </b> <br>
 • <a href="https://github.com/ZN6Nate/ADPowershellScripting">Powershell Scripting with Active Directory & Domains </a><br>
-• <a href="https://github.com/ZN6Nate/ParrotOS-Install-RPI4">How To Install ParrotOS on Raspberry Pi 4 </a><br>
 • <a href="https://github.com/ZN6Nate/RemoteServerRestartBatchScript">Desktop Shortcut - Remote Server Restart Batch Script for Shutterfly</a><br>
-
-
-<h2>⚡ Programming Projects:</h2>
-<b>Python </b> <br>
+<b>🐍 - Python </b> <br>
 • <a href="https://github.com/ZN6Nate/Barcode2ZPLConverter">Barcode Scan to Zebra ZPL Label Converter (Python) for Shutterfly</a><br>
-• <a href="https://github.com/ZN6Nate/PasswordStrenghtChecker">Password Strength Checker (Python) </a>
+• <a href="https://github.com/ZN6Nate/PasswordStrenghtChecker">Password Strength Checker (Python) </a><br>
+<b>👮 - Information Security Projects </b> <br>
+• <a href="https://github.com/ZN6Nate/ParrotOS-Install-RPI4">How To Install ParrotOS on Raspberry Pi 4 </a><br>
 
 <h2> 📄 My Certifications:</h2>
 • <a href="https://www.credly.com/badges/bef9bab5-8dd1-47c6-9f22-a95bdd1e5afa/public_url">CompTIA Security+ (Sept 2025 - 2028) </a> <br>
