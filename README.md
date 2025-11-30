@@ -5,7 +5,7 @@
 🏎️ <a href="https://www.youtube.com/watch?v=uKRjMLJ8Y7o">Future Cadillac F1 IT Personnel (Hopefully) </a> <br>
 🏎️ <a href="https://www.youtube.com/watch?v=V3MEpCUK6Ow">I Love Drifting </a> <br>
 🏎️ <a href="https://www.youtube.com/watch?v=zFh5Rqzh_5U&t=84s">I Love ZN6/ZC6 </a> <br>
-🏓 <a href="https://www.youtube.com/watch?v=qTX9S9Xmyec">I am absolutely BUCK NASTY at Ping Pong </a> <br>
+🏓 <a href="https://www.youtube.com/watch?v=qTX9S9Xmyec">I am absolutely DISGUSTING at Ping Pong </a> <br>
 🧽 <a href="https://www.youtube.com/watch?v=XSEnkeHsppU">and I REALLY Love Spongebob </a> <br>
 
 
